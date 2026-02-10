@@ -6,8 +6,12 @@ Project started 10 February 2026
 ## Checklist
  - [x] Create a repository
  - [x] Setup React
- - [ ] 
+ - [ ] Learn NextJS fundamentals
 
 ## Notes
+  ### Setup React
+  I used the [Next.js’s App Router](https://nextjs.org/docs) framework
+
+  ### Learn NextJS fundamentals
 
 ## Credit
