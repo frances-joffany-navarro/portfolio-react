@@ -6,12 +6,15 @@ Project started 10 February 2026
 ## Checklist
  - [x] Create a repository
  - [x] Setup React
- - [ ] Create templates (Nav, Footer, etc.)
+ - [x] Create templates (Nav, Footer, etc.)
 
 ## Notes
   - ### Setup React
-    I used the [Next.js’s App Router](https://nextjs.org/docs) framework
+    ~~I used the [Next.js’s App Router](https://nextjs.org/docs) framework~~
+	I created a react app by using ```npm create vite@latest```
 
-  - ### Learn NextJS fundamentals
+  - ### Create templates
+	I used this video to create a simple Nav and Footer template
+	[React tutorial for beginner](https://youtu.be/hn80mWvP-9g?si=vusBoGUn83qz1at7)
 
 ## Credit
