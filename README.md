@@ -7,7 +7,8 @@ Project started 10 February 2026
  - [x] Create a repository
  - [x] Setup React
  - [x] Create templates (Nav, Footer, etc.)
- - [ ] Create a style for the website. Should i use bootstrap?
+ - [x] Create a style for the website. Should i use bootstrap?
+ - [ ] Add content
 
 ## Notes
   - ### Setup React
@@ -16,5 +17,8 @@ Project started 10 February 2026
 
   - ### Create templates
 	  I used this [React tutorial for beginner](https://youtu.be/hn80mWvP-9g?si=vusBoGUn83qz1at7) video to create a simple Nav and Footer template
+
+  - ### Create a style for the website
+    I decided to use react bootstrap
 
 ## Credit
