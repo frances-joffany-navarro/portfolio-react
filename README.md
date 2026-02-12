@@ -7,7 +7,7 @@ Project started 10 February 2026
  - [x] Create a repository
  - [x] Setup React
  - [x] Create templates (Nav, Footer, etc.)
- - [ ] Create a style for the website. Shoul i use bootstrap?
+ - [ ] Create a style for the website. Should i use bootstrap?
 
 ## Notes
   - ### Setup React

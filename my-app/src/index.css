@@ -1,4 +1,13 @@
-:root {
+.navbar-brand {
+  font-weight: bold;
+}
+.main-container {
+  padding-top: 80px;
+}
+
+
+
+/* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -66,3 +75,4 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+ */

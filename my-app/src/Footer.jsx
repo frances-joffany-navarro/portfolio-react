@@ -1,7 +1,11 @@
+import Container from 'react-bootstrap/Container';
+
 function Footer() {
   return (
-    <footer>
-      <p>&copy; {new Date().getFullYear()} FJN Upskilling</p></footer>
+      <Container fluid className="text-center py-3" sticky="bottom">
+        <p>&copy; {new Date().getFullYear()} FJN Upskilling</p>
+      </Container>
+
   );
 }
 
