@@ -9,6 +9,9 @@ Project started 10 February 2026
  - [x] Create templates (Nav, Footer, etc.)
  - [x] Create a style for the website. Should i use bootstrap?
  - [ ] Add content
+   - [ ] Create Headline (Carousel of my works)
+   - [ ] Create My works section
+   - [ ] 
 
 ## Notes
   - ### Setup React
