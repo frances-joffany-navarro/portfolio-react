@@ -1,21 +1,20 @@
 //React Components
 import Header from "./Header";
 import Footer from "./Footer";
-import IndividualIntervalsExample from "./IndividualIntervalsExample";
+import Hero from "./Hero";
 
 
 //Bootstrap Components
-
 import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
     <>
-        <Header />
-        <Container className="main-container">
-          <IndividualIntervalsExample />
-        </Container>
-        <Footer />
+      <Header />
+      <Container className="main-container">
+        <Hero />
+      </Container>
+      <Footer />
     </>
   );
 }

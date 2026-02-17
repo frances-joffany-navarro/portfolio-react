@@ -1,6 +1,4 @@
 import Carousel from 'react-bootstrap/Carousel';
-import CarouselItem from 'react-bootstrap/esm/CarouselItem';
-/* import ExampleCarouselImage from 'components/ExampleCarouselImage'; */
 
 function IndividualIntervalsExample() {
 
@@ -9,7 +7,7 @@ function IndividualIntervalsExample() {
       id: 1,
       title: 'First slide label',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
-      imageUrl: '../src/assets/carouselImages/Christmas-Booklet-2025-v2.png',
+      imageUrl: '../src/assets/carouselImages/Christmas-Booklet-2022.jpg',
     },
     {
       id: 2,
