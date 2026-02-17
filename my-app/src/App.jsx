@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Header />
-      <Container className="main-container">
+      <Container className="main-container"> 
         <Hero />
       </Container>
       <Footer />
