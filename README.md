@@ -10,6 +10,10 @@ Project started 10 February 2026
  - [x] Create a style for the website. Should i use bootstrap?
  - [ ] Add content
    - [ ] Create Headline (Carousel of my works)
+     - [ ] fix the size of carousel
+       - [x] made the sizes of the images uniform
+     - [ ] group my works by category (Development and Design)
+     - [x] Fix the interval
    - [ ] Create My works section
    - [ ] 
 
