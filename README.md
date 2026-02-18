@@ -15,7 +15,6 @@ Project started 10 February 2026
      - [ ] group my works by category (Development and Design)
      - [x] Fix the interval
    - [ ] Create My works section
-   - [ ] 
 
 ## Notes
   - ### Setup React
