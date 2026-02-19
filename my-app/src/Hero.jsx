@@ -40,13 +40,13 @@ function IndividualIntervalsExample() {
                 alt={slide.title}
               /> */}
 
-              <Image className="d-none d-md-block" src={imgSrc + slide.imageName + '-lg' + imgFormat} alt={slide.title} fluid />
-
-              <img
-                className="d-block d-md-none center"
+              <Image className="d-none d-md-block w-100" src={imgSrc + slide.imageName + '-lg' + imgFormat} alt={slide.title} fluid />
+              <Image className="d-block d-md-none w-100" src={imgSrc + slide.imageName + imgFormat} alt={slide.title} fluid />
+              {/* <img
+                className="d-block d-md-none"
                 src={imgSrc + slide.imageName + imgFormat}
                 alt={slide.title}
-              />
+              /> */}
               {/* <Carousel.Caption>
                 <h3>{slide.title}</h3>
                 <p>{slide.description}</p>

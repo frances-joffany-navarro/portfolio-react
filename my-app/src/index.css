@@ -8,6 +8,7 @@
 .carousel-item img{
   height: 75vh;
   margin: auto;
+  object-fit: cover !important;
 } 
 
 /* :root {
