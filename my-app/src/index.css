@@ -3,10 +3,11 @@
 }
 .main-container {
   padding-top: 80px;
+  /* padding-bottom: 1rem; */
 }
-/* .carousel-item img{
-  height: 80vh;
-}  */
+.carousel-item img{
+  height: 75vh;
+} 
 
 /* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;

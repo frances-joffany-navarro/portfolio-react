@@ -9,7 +9,7 @@ function IndividualIntervalsExample() {
       id: 1,
       title: 'Simbang Gabi Booklet Design',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
-      imageName: 'design-booklet',
+      imageName: 'design-booklet-4',
     },
     {
       id: 2,
