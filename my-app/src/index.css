@@ -2,11 +2,12 @@
   font-weight: bold;
 }
 .main-container {
-  padding-top: 80px;
+  padding-top: 55px;
   /* padding-bottom: 1rem; */
 }
 .carousel-item img{
   height: 75vh;
+  margin: auto;
 } 
 
 /* :root {
