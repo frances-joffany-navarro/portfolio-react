@@ -3,8 +3,8 @@ import Image from 'react-bootstrap/Image';
 
 //images
 
-function IndividualIntervalsExample() {
-  let imgSrc = '../src/assets/carouselImages/';
+function Hero() {
+  let imgSrc = 'carouselImages/';
   let imgFormat = '.jpg';
   let heroData = [
     {
@@ -54,4 +54,4 @@ function IndividualIntervalsExample() {
   );
 }
 
-export default IndividualIntervalsExample;
+export default Hero;
