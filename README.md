@@ -17,6 +17,8 @@ Project started 10 February 2026
      - [ ] group my works by category (Development and Design)
      - [x] Fix the interval
    - [ ] Create My works section
+   - [ ] Deploy application to github pages
+     - [ ] The images in carousel are not showing
 
 ## Notes
   - ### Setup React
@@ -28,5 +30,20 @@ Project started 10 February 2026
 
   - ### Create a style for the website
     I decided to use react bootstrap
+
+  - ### Add Content
+    To make the images uniform I use photoshop
+    To fix the strech images in the carousel I added in css the following
+      ```
+      .carousel-item img{
+        height: 75vh;
+        margin: auto;
+        object-fit: cover !important;
+      }     
+      ```
+    I am using images from unsplash
+
+  - ### Deploy Website to Github Pages
+    [How To Deploy A React Vite App To Github Pages (Simple)](https://www.youtube.com/watch?v=hn1IkJk24ow)
 
 ## Credit
