@@ -21,7 +21,7 @@ Project started 10 February 2026
      - [ ] The images in carousel are not showing
 
 ## Website
-[ https://frances-joffany-navarro.github.io/portfolio-react/]( https://frances-joffany-navarro.github.io/portfolio-react/) 
+  [https://frances-joffany-navarro.github.io/portfolio-react/]( https://frances-joffany-navarro.github.io/portfolio-react/) 
 ## Notes
   - ### Setup React
     ~~I used the [Next.js’s App Router](https://nextjs.org/docs) framework~~
