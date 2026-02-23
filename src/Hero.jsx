@@ -11,13 +11,13 @@ function Hero() {
       id: 1,
       title: 'Simbang Gabi Booklet Design',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
-      imageSrc: 'portfolio-react/src/assets/images/hero/design.jpg',
+      imageSrc: 'src/assets/images/hero/design.jpg',
     },
     {
       id: 2,
       title: 'Simbang Gabi Booklet Design',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
-      imageSrc: 'portfolio-react/src/assets/images/hero/development.jpg',
+      imageSrc: 'src/assets/images/hero/development.jpg',
     },
   ];
 
