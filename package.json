@@ -1,9 +1,20 @@
 {
   "name": "portfolio-react",
+  "version": "0.0.0",
   "private": true,
+  "description": "In this project, I will re-create my [portfolio](frances-joffany-navarro.github.io). This time I will be using the power of react to create a dynamic page and helps me to gain more knowledge in react.",
   "homepage": "https://frances-joffany-navarro.github.io/portfolio-react/",
-  "version": "0.0.0",  
+  "bugs": {
+    "url": "https://github.com/frances-joffany-navarro/portfolio-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frances-joffany-navarro/portfolio-react.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
