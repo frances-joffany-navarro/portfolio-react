@@ -1,6 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
 import Image from 'react-bootstrap/Image';
-
+import image1 from "./assets/images/hero/design.jpg";
+import image2 from "./assets/images/hero/development.jpg";
 //images
 
 function Hero() {
@@ -11,13 +12,13 @@ function Hero() {
       id: 1,
       title: 'Simbang Gabi Booklet Design',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
-      imageSrc: 'src/assets/images/hero/design.jpg',
+      imageSrc: image1,
     },
     {
       id: 2,
       title: 'Simbang Gabi Booklet Design',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
-      imageSrc: 'src/assets/images/hero/development.jpg',
+      imageSrc: image2,
     },
   ];
 
