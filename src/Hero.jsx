@@ -5,8 +5,6 @@ import image2 from "./assets/images/hero/development.jpg";
 //images
 
 function Hero() {
-  //let imageFormat = '.jpg';
-  //const imageSrc = './portfolio-react/my-app/src/assets/images/hero/';
   let heroData = [
     {
       id: 1,

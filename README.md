@@ -17,8 +17,8 @@ Project started 10 February 2026
      - [ ] group my works by category (Development and Design)
      - [x] Fix the interval
    - [ ] Create My works section
-   - [ ] Deploy application to github pages
-     - [ ] The images in carousel are not showing
+   - [x] Deploy application to github pages
+     - [x] The images in carousel are not showing
 
 ## Website
   [https://frances-joffany-navarro.github.io/portfolio-react/]( https://frances-joffany-navarro.github.io/portfolio-react/) 
@@ -47,5 +47,14 @@ Project started 10 February 2026
 
   - ### Deploy Website to Github Pages
     [How To Deploy A React Vite App To Github Pages (Simple)](https://www.youtube.com/watch?v=hn1IkJk24ow)
+
+    Problem: The image is not showing
+      - vite.config file
+        ```
+        base: "/portfolio-react/"
+        ```
+      - Hero.jsx
+        instead of putting the path directly in the object, I imported first the images (relative path) named image1 and image2 then use the variables inside the object.
+
 
 ## Credit
