@@ -8,17 +8,17 @@ Project started 10 February 2026
  - [x] Setup React
  - [x] Create templates (Nav, Footer, etc.)
  - [x] Create a style for the website. Should i use bootstrap?
- - [ ] Add content
-   - [ ] Create Headline (Carousel of my works)
+ - [ ] Add content to homepage
+   - [x] Create Headline (Carousel of my works)
      - [x] fix the size of carousel
        - [x] made the sizes of the images uniform
        - [x] fix the streched image in responsive
-       - [ ] find good images for design and development categories
-     - [ ] group my works by category (Development and Design)
+       - [x] find images for design and development categories in homepage
+     - [X] group my works by category (Development and Design)
      - [x] Fix the interval
-   - [ ] Create My works section
-   - [x] Deploy application to github pages
-     - [x] The images in carousel are not showing
+ - [ ] Create My works section
+ - [x] Deploy application to github pages
+    - [x] The images in carousel are not showing
 
 ## Website
   [https://frances-joffany-navarro.github.io/portfolio-react/]( https://frances-joffany-navarro.github.io/portfolio-react/) 
