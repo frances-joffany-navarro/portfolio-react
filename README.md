@@ -58,3 +58,9 @@ Project started 10 February 2026
 
 
 ## Credit
+  - Carousel Images
+    - Photo by [Harper Sunday](https://unsplash.com/@harpersunday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-bunch-of-pictures-that-are-on-a-table-RmQWqLKsVv8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    - Photo by [Growtika](https://unsplash.com/@growtika?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-computer-on-a-desk-58K6WZiwd0g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+      
+      Photo by <a href=""></a> on <a href="">Unsplash</a>
+      

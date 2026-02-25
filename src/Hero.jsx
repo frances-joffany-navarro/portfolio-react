@@ -8,13 +8,13 @@ function Hero() {
   let heroData = [
     {
       id: 1,
-      title: 'Simbang Gabi Booklet Design',
+      title: 'Design',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
       imageSrc: image1,
     },
     {
       id: 2,
-      title: 'Simbang Gabi Booklet Design',
+      title: 'Development',
       description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
       imageSrc: image2,
     },
@@ -28,9 +28,11 @@ function Hero() {
 
             <Carousel.Item key={slide.id} interval={5000}>
 
-              <Image className="d-none d-md-block w-100" src={slide.imageSrc} alt={slide.title} fluid />
-              <Image className="d-block d-md-none w-100" src={slide.imageSrc} alt={slide.title} fluid />
-
+              <Image className="d-block w-100" src={slide.imageSrc} alt={slide.title} fluid />
+              {/* <Image className="d-block d-md-none w-100" src={slide.imageSrc} alt={slide.title} fluid /> */}
+              <Carousel.Caption>
+                <h1>{slide.title}</h1>
+              </Carousel.Caption>
             </Carousel.Item>
 
           )
