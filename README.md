@@ -19,6 +19,8 @@ Project started 10 February 2026
  - [ ] Create My works section
    - [x] Apply Grid
    - [x] Understand Grid
+   - [x] added category navigation
+   - [ ] text alignment
  - [x] Deploy application to github pages
     - [x] The images in carousel are not showing
 
