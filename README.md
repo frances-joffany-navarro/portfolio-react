@@ -17,6 +17,8 @@ Project started 10 February 2026
      - [X] group my works by category (Development and Design)
      - [x] Fix the interval
  - [ ] Create My works section
+   - [x] Apply Grid
+   - [x] Understand Grid
  - [x] Deploy application to github pages
     - [x] The images in carousel are not showing
 
